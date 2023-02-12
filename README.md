@@ -25,7 +25,7 @@ my study examples ver1
 
 ### 오늘의 대화
 > 행복은 성적순이 아니다.
->> 
+>> 행복은 성적순이 아니다.
 
 
 ### Inline code
@@ -42,6 +42,6 @@ function sum(a, b) {
 ### Task Lists
 - [x] 자료조사
 - [x] 자료정리
-- [] 자료취합
-- [] 문서작업
+- [x] 자료취합
+- [ ] 문서
 
