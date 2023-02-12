@@ -1,5 +1,5 @@
 # example
-### example project
+### ![Github](https://github.githubassets.com/favicons/favicon.svg)  example project
 
 my study examples ver1
 
@@ -20,3 +20,28 @@ my study examples ver1
 
 
 [Github](https://github.com)
+![Github](https://github.githubassets.com/favicons/favicon.svg)
+
+
+### 오늘의 대화
+> 행복은 성적순이 아니다.
+>> 
+
+
+### Inline code
+1차 방정식 `y = ax + b` 공식입니다.
+
+
+### Syntax highlighting
+```javascript
+function sum(a, b) {
+ x = a + b;
+}
+```
+
+### Task Lists
+- [x] 자료조사
+- [x] 자료정리
+- [] 자료취합
+- [] 문서작업
+
